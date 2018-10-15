@@ -338,8 +338,8 @@ def menu():
                  \_  \_ \_    \rk*\rhDragonEarth Warrior
 \rk###########################################################
 #             \rb*Aprio*\rk                                     #
-# \rhBY\rp                                 AprioDwiHasan.       \rk#
-# \rhLink FB\rp https://m.facebook.com/aprio.dwihasan.794.      \rk#
+# \rhBY\rp                    AprioDwiHasan                     \rk#
+# \rhLink FB\rp https://m.facebook.com/aprio.dwihasan.794       \rk#
 # \rhGitHub\rp           https://github.com/apriodwihasan       \rk#
 #       \rmDo          Not Team But Alone :(                 \rk#
 ###########################################################''')
