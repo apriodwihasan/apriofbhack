@@ -337,11 +337,11 @@ def menu():
                  /  \  \           '
                  \_  \_ \_    \rk*\rhDragonEarth Warrior
 \rk###########################################################
-#             \rb*Aprio*\rk                                  #
-# \rhBY\rp                                 AprioDwiHasan  \rk#
-# \rhLink FB\rp https://m.facebook.com/aprio.dwihasan.794 \rk#
-# \rhGitHub\rp           https://github.com/apriodwihasan \rk#
-#       \rmDo Not Use This Tool For IllegaL Purpose       \rk#
+#             \rb*Aprio*\rk                                    #
+# \rhBY\rp                                 AprioDwiHasan.      \rk#
+# \rhLink FB\rp https://m.facebook.com/aprio.dwihasan.794.     \rk#
+# \rhGitHub\rp           https://github.com/apriodwihasan      \rk#
+#       \rmDo Not Use This Tool For IllegaL Purpose         \rk#
 ###########################################################''')
 	tampil('''\rk%s\n\rc1 \rhAmbil id dari group\n\rc2 \rhAmbil id dari daftar teman\n\rc3 \rmKELUAR\n\rk%s'''%('#'*20,'#'*20))
 	i = inputM('[?]PILIH',[1,2,3])
