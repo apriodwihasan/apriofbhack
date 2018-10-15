@@ -328,14 +328,14 @@ def lanjutG():
 def menu():
 	tampil('''\rh
                      (+_+)Aprio(+_+)
-                    //+//++////
-                   //+//++////
-            \\rk*   *\\rh //+//++////
-             \\ //  |//__////
-           {\\rmX\\rh}v{\rmX\rh}|\rcADH\rh|==========.
-             [']  //'||'\\           \\\\
-                 //  \\  \\           '
-                 \\__  \\__\\_-    \rk*\rhDragonEarth Warrior
+                    /+/++//
+                   /+/++//
+            \rk*   *\\rh //+/++//
+             \ /  |/__//
+           {\rmX\rh}v{\rmX\rh}|\rcADH\rh|==========.
+             [']  /'|'\         \\
+                 /  \  \           '
+                 \_  \_\_  \rk*\rhDragonEarth Warrior
 \rk###########################################################
 #             \rb*Aprio*\rk                                     #
 # \rhBY\rp                    AprioDwiHasan                     \rk#
