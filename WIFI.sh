@@ -6,10 +6,10 @@
 ############################################################################
 
 
-# WiFi Hacker v1.9
-# esc0rtd3w 2017
+# WiFi Hacker
+# Aprio 2018
 
-# https://github.com/esc0rtd3w/wifi-hacker/
+# https://github.com/apriodwihasan
 
 # Uses parts of the aircrack-ng suite, reaver, wifite, and many other tools
 
